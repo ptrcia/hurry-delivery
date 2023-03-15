@@ -1,9 +1,8 @@
 # hurry-delivery
--------------
 Small collaborative video game project in Unity3D.
-----
-###Created By:
+
+## Created By:
 - Patricia García Artero
 - Daniel Alcón Martín
 
-###Date: 2023-03-15
+##### Date: 2023-03-15
